@@ -31,3 +31,7 @@ questions)
 12. A ‘Restaurant Details’ page which displays the menu items of that particular restaurant,
 each item’s price and the option to add an item to cart.
 13. A ‘Cart’ which lists the items added to cart and the total amount to be paid.
+
+
+Language: Kotlin, XML
+Databases: SQlite Database
